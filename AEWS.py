@@ -1,5 +1,4 @@
 import psutil
-from psutil._pswindows import win_service_iter
 import pandas as pd
 
 # Function to retrieve detailed information about a process given its PID
