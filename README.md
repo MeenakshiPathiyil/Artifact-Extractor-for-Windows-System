@@ -1,5 +1,5 @@
 # Artifact Extractor for Windows System
-The AEWS is a Python program that utilizes the 'psutil' and 'pandas' libraries to gather essential information about processes, services, memory usage, disk space, and logged-in users on the system.
+The AEWS is a Python program that utilizes the 'psutil' and 'pandas' libraries to gather essential information about processes, services, memory usage, disk space, and logged-in users on the system and creates a dataframe for further analysis.
 
 ## Features
 The AEWS provides the following features: 
